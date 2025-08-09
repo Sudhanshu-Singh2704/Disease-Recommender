@@ -27,5 +27,5 @@ This project is a **Disease Prediction and Recommendation System** built with Py
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Sudhanshu_singh2704/Disease-Recommender.git
+cd Disease-Recommender
